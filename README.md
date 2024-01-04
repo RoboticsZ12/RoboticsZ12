@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Mechatronics/Robotics ENGRing. 
 - 📫 How to reach me: zgeorgi@siue.edu | zechariahgeorgian@gmail.com for my personnel.
 
-<!---
-RoboticsZ12/RoboticsZ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Zechariah Georgian. I am a current senior at SIUE, Southern Illinois University Edwardsville, and will be graduating 
+with a Mechatronics/Robotics Engineering degree in the Fall of 2024, main emphasis on Robotics.
+
